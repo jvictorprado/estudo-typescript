@@ -1,0 +1,9 @@
+SPECIFY THE TARGET:
+tsc -t es5 script.ts
+---------------------------------
+BROWSERIFY:
+npm install -g browserify
+---------------------------------
+"downlevelIteration": true > no tsconfig
+--downlevelIteration > no terminal, na hr de transpilar
+---------------------------------

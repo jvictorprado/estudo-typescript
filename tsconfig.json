@@ -1,0 +1,16 @@
+{
+ "compilerOptions": {
+    "module": "commonjs",
+     "target": "es5",
+     "sourceMap": true,
+     "strictNullChecks": false,
+     "downlevelIteration": true,
+     "experimentalDecorators": true,
+     "emitDecoratorMetadata": true
+    // "esModuleInterop": true
+    //  "noImplicitThis": true     diz quando o this é 'any' 
+ },
+ "exclude": [
+     "node_modules"
+ ],  
+}
