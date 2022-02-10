@@ -1,0 +1,22 @@
+
+ALGUMAS CONSIDERAÇÕES:
+
+Null: 
+é atribuído.
+é sempre intencional.
+indica uma falta de valor.
+
+Undefined:
+pode ser atribuído.
+é muitas vezes não intencional.
+indica que uma variável foi declarada, mas não definida.
+
+Ambos:
+são primitivos.
+são valores falsos.
+são vagamente iguais. 
+// null == undefined (true) 
+// null == undefined (false)
+
+Já undeclared significa q a variavel n foi declarada ( o que faz dela tbm undefined)
+Undefined é a falta de tipo e valor, e null é a falta de valor.
